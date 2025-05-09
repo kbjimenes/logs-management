@@ -27,5 +27,5 @@ pip install -r requirements.txt
 ## **Contacto**
 
 Para más información, por favor contacte a:
-**[kbjimens@udc.ec](mailto:kbjimens@udc.ec)**
+**[kbjimens@udc.ec](mailto:xxxx@xxx.ec)**
 
