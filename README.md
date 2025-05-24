@@ -24,3 +24,4 @@ Para instalar las dependencias necesarias, ejecute el siguiente comando en su te
 conda env create -f environment.yml
 ````
 
+Además, para utilizar el modelo Word2Vec, es necesario descargar el modelo preentrenado glove.6B.zip, disponible en: https://nlp.stanford.edu/projects/glove/
