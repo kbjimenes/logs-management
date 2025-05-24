@@ -1,0 +1,241 @@
+Content,Level,datetime,content_length,source,Clean_Content
+******* GOODBYE /10.10.34.12:59203 ********,Advertencia,2015-07-29 19:16:06.336,1,Zookeeper,goodbye
+Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms,Advertencia,2024-03-17 16:15:19.993,12,Android,scheduling restart crashed service com tencent mobileqq cooperation qzone remote logic qzonewebpluginproxyservice
+Send worker leaving thread,Advertencia,2015-07-29 19:31:32.420,4,Zookeeper,send worker leaving thread
+"Connection broken for id 188978561024, my id = 2, error =",Advertencia,2015-07-29 19:30:54.151,5,Zookeeper,connection broken id id error
+Interrupting SendWorker,Advertencia,2015-07-29 19:30:54.053,2,Zookeeper,interrupting sendworker
+Send worker leaving thread,Advertencia,2015-07-29 19:25:03.744,4,Zookeeper,send worker leaving thread
+Interrupting SendWorker,Advertencia,2015-07-29 19:29:38.163,2,Zookeeper,interrupting sendworker
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:27:04.552,4,Zookeeper,interrupted waiting message queue
+getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output,Advertencia,2024-03-17 16:14:38.301,6,Android,getrunningappprocesses caller does hold limiting output
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:32:32.336,4,Zookeeper,interrupted waiting message queue
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:23:50.171,5,Zookeeper,connection broken id id error
+shouldBlockLocation running ...,Advertencia,2024-03-17 16:13:40.280,2,Android,shouldblocklocation running
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:05:31.000,9,Hadoop,address change detected old msra sa new msra sa
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:30:20.650,4,Zookeeper,interrupted waiting message queue
+Send worker leaving thread,Advertencia,2015-07-29 19:32:02.367,4,Zookeeper,send worker leaving thread
+Send worker leaving thread,Advertencia,2015-07-29 19:29:58.779,4,Zookeeper,send worker leaving thread
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:33:05.829,5,Zookeeper,connection broken id id error
+"Connection broken for id 188978561024, my id = 3, error =",Advertencia,2015-07-29 19:31:58.253,5,Zookeeper,connection broken id id error
+Interrupting SendWorker,Advertencia,2015-07-29 19:27:18.756,2,Zookeeper,interrupting sendworker
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:23:00.124,5,Zookeeper,connection broken id id error
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:25:12.262,4,Zookeeper,interrupted waiting message queue
+getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output,Advertencia,2024-03-17 16:15:27.039,6,Android,getrunningappprocesses caller does hold limiting output
+Cannot open channel to 3 at election address /10.10.34.13:3888,Advertencia,2015-08-25 02:36:15.217,4,Zookeeper,open channel election address
+"Connection broken for id 188978561024, my id = 2, error =",Advertencia,2015-07-29 19:35:11.461,5,Zookeeper,connection broken id id error
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:24:55.570,4,Zookeeper,interrupted waiting message queue
+"Connection broken for id 188978561024, my id = 2, error =",Advertencia,2015-07-29 19:35:24.626,5,Zookeeper,connection broken id id error
+Send worker leaving thread,Advertencia,2015-07-29 19:29:32.056,4,Zookeeper,send worker leaving thread
+Interrupting SendWorker,Advertencia,2015-07-29 19:32:42.357,2,Zookeeper,interrupting sendworker
+Interrupting SendWorker,Advertencia,2015-07-29 19:25:36.585,2,Zookeeper,interrupting sendworker
+Interrupting SendWorker,Advertencia,2015-07-29 19:29:51.525,2,Zookeeper,interrupting sendworker
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 67 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:06:04.000,6,Hadoop,failed renew lease seconds retry shortly
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:24:23.578,4,Zookeeper,interrupted waiting message queue
+"Connection broken for id 188978561024, my id = 3, error =",Advertencia,2015-07-29 19:21:46.050,5,Zookeeper,connection broken id id error
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:08:56.000,9,Hadoop,address change detected old msra sa new msra sa
+getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output,Advertencia,2024-03-17 16:15:26.888,6,Android,gettasks caller does hold limiting output
+Send worker leaving thread,Advertencia,2015-07-29 19:29:38.843,4,Zookeeper,send worker leaving thread
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:05:46.000,9,Hadoop,address change detected old msra sa new msra sa
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:10:02.000,9,Hadoop,address change detected old msra sa new msra sa
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:05:29.000,9,Hadoop,address change detected old msra sa new msra sa
+getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output,Advertencia,2024-03-17 16:15:25.046,6,Android,getrunningappprocesses caller does hold limiting output
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 123 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:07:01.000,6,Hadoop,failed renew lease seconds retry shortly
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 206 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:08:23.000,6,Hadoop,failed renew lease seconds retry shortly
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:30:50.712,4,Zookeeper,interrupted waiting message queue
+Send worker leaving thread,Advertencia,2015-07-29 19:36:15.651,4,Zookeeper,send worker leaving thread
+"Connection broken for id 188978561024, my id = 3, error =",Advertencia,2015-07-29 19:26:28.458,5,Zookeeper,connection broken id id error
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:07:25.000,9,Hadoop,address change detected old msra sa new msra sa
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:32:52.469,5,Zookeeper,connection broken id id error
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:05:48.000,9,Hadoop,address change detected old msra sa new msra sa
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 282 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:09:39.000,6,Hadoop,failed renew lease seconds retry shortly
+Send worker leaving thread,Advertencia,2015-07-29 19:25:39.729,4,Zookeeper,send worker leaving thread
+Send worker leaving thread,Advertencia,2015-07-29 19:33:55.844,4,Zookeeper,send worker leaving thread
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:08:19.000,9,Hadoop,address change detected old msra sa new msra sa
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:07:00.000,9,Hadoop,address change detected old msra sa new msra sa
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:29:27.299,4,Zookeeper,interrupted waiting message queue
+Send worker leaving thread,Advertencia,2015-07-29 19:29:11.438,4,Zookeeper,send worker leaving thread
+"Connection broken for id 188978561024, my id = 3, error =",Advertencia,2015-07-29 19:33:35.217,5,Zookeeper,connection broken id id error
+Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Advertencia,2015-10-18 18:09:37.000,9,Hadoop,address change detected old msra sa new msra sa
+shouldBlockLocation running ...,Advertencia,2024-03-17 16:15:27.283,2,Android,shouldblocklocation running
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:33:55.163,4,Zookeeper,interrupted waiting message queue
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 98 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:06:36.000,6,Hadoop,failed renew lease seconds retry shortly
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:07:59.000,9,Hadoop,address change detected old msra sa new msra sa
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:22:43.536,5,Zookeeper,connection broken id id error
+Connection request from old client /10.10.34.11:51259; will be dropped if server is in r-o mode,Advertencia,2015-08-10 18:25:27.950,9,Zookeeper,connection request old client dropped server r o mode
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:09:44.000,9,Hadoop,address change detected old msra sa new msra sa
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:08:27.000,9,Hadoop,address change detected old msra sa new msra sa
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 82 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:06:20.000,6,Hadoop,failed renew lease seconds retry shortly
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:08:48.000,9,Hadoop,address change detected old msra sa new msra sa
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 62 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:05:59.000,6,Hadoop,failed renew lease seconds retry shortly
+Send worker leaving thread,Advertencia,2015-07-29 19:53:12.538,4,Zookeeper,send worker leaving thread
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:07:04.000,9,Hadoop,address change detected old msra sa new msra sa
+Interrupting SendWorker,Advertencia,2015-07-30 23:49:40.005,2,Zookeeper,interrupting sendworker
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:10:54.000,9,Hadoop,address change detected old msra sa new msra sa
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:22:50.025,4,Zookeeper,interrupted waiting message queue
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:29:38.841,4,Zookeeper,interrupted waiting message queue
+Interrupted while waiting for message on queue,Advertencia,2015-07-29 19:29:18.121,4,Zookeeper,interrupted waiting message queue
+Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 74 seconds.  Will retry shortly ...,Advertencia,2015-10-18 18:06:11.000,6,Hadoop,failed renew lease seconds retry shortly
+"Connection broken for id 188978561024, my id = 1, error =",Advertencia,2015-07-29 19:33:32.552,5,Zookeeper,connection broken id id error
+Interrupting SendWorker,Advertencia,2015-07-29 19:29:45.522,2,Zookeeper,interrupting sendworker
+Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Advertencia,2015-10-18 18:09:09.000,9,Hadoop,address change detected old msra sa new msra sa
+Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Advertencia,2015-10-18 18:07:40.000,9,Hadoop,address change detected old msra sa new msra sa
+Lustre mount FAILED : bglio617 : block_id : location,Error,2005-12-04 20:05:37,4,BGL,lustre mount failed location
+"Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",Error,2005-11-15 02:25:41,12,BGL,error receiving packet tree network expecting type instead type softheader prxf pixf
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:08:14.000,3,Hadoop,error contacting rm
+data TLB error interrupt,Error,2005-06-12 00:46:52,4,BGL,data tlb error interrupt
+program interrupt: fp cr update.............0,Error,2005-06-14 17:54:39,5,BGL,program interrupt fp cr update
+jk2_init() Can't find child 5621 in scoreboard,Error,2005-12-05 11:06:52.000,3,Apache,t child scoreboard
+mod_jk child workerEnv in error state 8,Error,2005-12-04 20:24:49.000,4,Apache,child workerenv error state
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",Error,2005-08-13 06:52:00,17,BGL,ciod error loading bgl apps scaletest performance miniben allreduce rts invalid missing program image exec format error
+mod_jk child workerEnv in error state 7,Error,2005-12-04 20:01:37.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 8,Error,2005-12-05 13:43:46.000,4,Apache,child workerenv error state
+instruction address: 0x00004ed8,Error,2005-06-14 16:17:05,2,BGL,instruction address
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:10:44.000,3,Hadoop,error contacting rm
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:07:50.000,3,Hadoop,error contacting rm
+data storage interrupt,Error,2005-06-14 16:56:18,3,BGL,data storage interrupt
+mod_jk child workerEnv in error state 6,Error,2005-12-04 16:32:56.000,4,Apache,child workerenv error state
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",Error,2005-08-13 06:50:07,17,BGL,ciod error loading bgl apps scaletest performance miniben allreduce rts invalid missing program image exec format error
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:09:16.000,3,Hadoop,error contacting rm
+Lustre mount FAILED : bglio336 : point /p/gb1,Error,2005-09-04 22:01:11,5,BGL,lustre mount failed point p
+mod_jk child workerEnv in error state 8,Error,2005-12-05 05:15:33.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 9,Error,2005-12-04 06:57:23.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 6,Error,2005-12-05 10:38:04.000,4,Apache,child workerenv error state
+data TLB error interrupt,Error,2005-06-12 05:29:56,4,BGL,data tlb error interrupt
+mod_jk child workerEnv in error state 6,Error,2005-12-04 20:24:49.000,4,Apache,child workerenv error state
+data TLB error interrupt,Error,2005-06-12 02:24:03,4,BGL,data tlb error interrupt
+mod_jk child workerEnv in error state 7,Error,2005-12-05 10:59:29.000,4,Apache,child workerenv error state
+[client 211.141.93.88] Directory index forbidden by rule: /var/www/html/,Error,2005-12-04 11:33:18.000,8,Apache,client directory index forbidden rule var www html
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:10:10.000,3,Hadoop,error contacting rm
+mod_jk child workerEnv in error state 6,Error,2005-12-04 06:01:30.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 9,Error,2005-12-04 20:34:25.000,4,Apache,child workerenv error state
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:06:58.000,3,Hadoop,error contacting rm
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:06:20.000,3,Hadoop,error contacting rm
+[client 24.83.37.136] Directory index forbidden by rule: /var/www/html/,Error,2005-12-04 15:59:01.000,8,Apache,client directory index forbidden rule var www html
+data TLB error interrupt,Error,2005-06-12 05:24:48,4,BGL,data tlb error interrupt
+mod_jk child workerEnv in error state 8,Error,2005-12-05 10:43:51.000,4,Apache,child workerenv error state
+Unexpected exception causing shutdown while sock still open,Error,2015-07-29 19:20:16.690,6,Zookeeper,unexpected exception causing shutdown sock open
+Unexpected exception causing shutdown while sock still open,Error,2015-07-29 19:04:30.989,6,Zookeeper,unexpected exception causing shutdown sock open
+data TLB error interrupt,Error,2005-06-12 02:50:25,4,BGL,data tlb error interrupt
+ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47696: Link has been severed,Error,2005-10-16 22:24:36,9,BGL,ciod error reading message prefix ciostream socket link severed
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",Error,2005-08-13 06:29:03,17,BGL,ciod error loading bgl apps scaletest performance miniben allreduce rts invalid missing program image exec format error
+instruction address space.........0,Error,2005-06-14 18:26:58,3,BGL,instruction address space
+"ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory",Error,2005-06-20 23:23:53,14,BGL,ciod error loading home draeger testqboxhang nozerobytebug nosleepyescomm invalid missing program image file directory
+mod_jk child workerEnv in error state 7,Error,2005-12-05 10:47:45.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 6,Error,2005-12-04 06:17:05.000,4,Apache,child workerenv error state
+"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41534, Link has been severed",Error,2005-11-24 17:38:05,9,BGL,ciod error reading message prefix ciostream socket link severed
+data storage interrupt,Error,2005-06-14 16:52:22,3,BGL,data storage interrupt
+data address: 0x00000002,Error,2005-06-14 17:21:45,2,BGL,data address
+mod_jk child workerEnv in error state 6,Error,2005-12-04 16:35:52.000,4,Apache,child workerenv error state
+"ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied",Error,2005-12-09 20:33:25,13,BGL,ciod error loading bgl apps swl stability invalid missing program image permission denied
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:08:18.000,3,Hadoop,error contacting rm
+mod_jk child workerEnv in error state 6,Error,2005-12-04 06:30:43.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 6,Error,2005-12-05 10:33:44.000,4,Apache,child workerenv error state
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",Error,2005-08-13 06:30:38,17,BGL,ciod error loading bgl apps scaletest performance miniben allreduce rts invalid missing program image exec format error
+instruction address: 0x00004ed8,Error,2005-06-14 00:45:55,2,BGL,instruction address
+ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,Error,2005-12-01 03:57:55,7,BGL,ciod login chdir g failed file directory
+debug wait enable.................0,Error,2005-07-18 23:02:26,3,BGL,debug wait enable
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",Error,2005-08-03 23:11:08,18,BGL,idoproxydb hit assert condition assert expression source file idotransportmgr cpp source line function int idotransportmgr sendpacket idoudpmgr bglctlpavtrace
+data TLB error interrupt,Error,2005-06-12 02:32:27,4,BGL,data tlb error interrupt
+"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:50288, Link has been severed",Error,2005-12-15 07:16:59,9,BGL,ciod error reading message prefix ciostream socket link severed
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",Error,2005-09-20 19:06:56,18,BGL,idoproxydb hit assert condition assert expression source file idotransportmgr cpp source line function int idotransportmgr sendpacket idoudpmgr bglctlpavtrace
+floating point instr. enabled.....1,Error,2005-06-14 18:12:52,4,BGL,floating point instr enabled
+mod_jk child init 1 -2,Error,2005-12-05 11:06:52.000,2,Apache,child init
+mod_jk child workerEnv in error state 6,Error,2005-12-05 10:10:33.000,4,Apache,child workerenv error state
+data address space................0,Error,2005-06-14 17:51:15,3,BGL,data address space
+"ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory",Error,2005-08-13 23:39:08,16,BGL,ciod error loading bgl apps scaletest stability mdcask work inferno invalid missing program image file directory
+data TLB error interrupt,Error,2005-06-12 01:19:01,4,BGL,data tlb error interrupt
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:08:40.000,3,Hadoop,error contacting rm
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",Error,2005-09-20 19:06:03,18,BGL,idoproxydb hit assert condition assert expression source file idotransportmgr cpp source line function int idotransportmgr sendpacket idoudpmgr bglctlpavtrace
+mod_jk child workerEnv in error state 8,Error,2005-12-05 03:47:54.000,4,Apache,child workerenv error state
+exception syndrome register: 0x00800000,Error,2005-06-14 17:19:22,3,BGL,exception syndrome register
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:10:26.000,3,Hadoop,error contacting rm
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:06:16.000,3,Hadoop,error contacting rm
+mod_jk child workerEnv in error state 6,Error,2005-12-04 16:41:22.000,4,Apache,child workerenv error state
+ERROR IN CONTACTING RM.,Error,2015-10-18 18:07:20.000,3,Hadoop,error contacting rm
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",Error,2005-08-13 06:29:37,17,BGL,ciod error loading bgl apps scaletest performance miniben allreduce rts invalid missing program image exec format error
+mod_jk child workerEnv in error state 8,Error,2005-12-05 07:55:08.000,4,Apache,child workerenv error state
+mod_jk child workerEnv in error state 6,Error,2005-12-05 17:46:06.000,4,Apache,child workerenv error state
+"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts: invalid or missing program image, Permission denied",Error,2005-10-05 11:06:35,14,BGL,ciod error loading home urgent vnm vnm rts invalid missing program image permission denied
+"ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory",Error,2005-12-09 06:18:58,15,BGL,ciod error loading g glosli src ddcmd bin ddcmdbglv invalid missing program image file directory
+data storage interrupt,Error,2005-06-14 16:53:21,3,BGL,data storage interrupt
+Can not get assembly information for node card,Error,2005-08-03 09:10:15,4,BGL,assembly information node card
+HBM brightnessOut =38,Informativo,2024-03-17 16:15:31.202,2,Android,hbm brightnessout
+jk2_init() Found child 2006 in scoreboard slot 9,Informativo,2005-12-04 20:34:20.000,3,Apache,child scoreboard slot
+"notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708",Informativo,2024-03-17 16:15:26.467,3,Android,notifyuivisibilitychanged vis systemuivisibility
+generating core.57762,Informativo,2005-07-08 01:42:34,2,BGL,generating core
+"setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",Informativo,2024-03-17 16:14:16.800,12,Android,setsystemuivisibility vis mask oldval newval diff fullscreenstackvis dockedstackvis fullscreenstackbounds rect dockedstackbounds rect
+"[HSM] stayAwake false uid: 10111, pid: 28601",Informativo,2024-03-17 16:15:18.859,5,Android,hsm stayawake false uid pid
+15 floating point alignment exceptions,Informativo,2005-07-24 00:30:31,4,BGL,floating point alignment exceptions
+Processing the event EventType: CONTAINER_REMOTE_CLEANUP for container container_1445144423722_0020_01_000004 taskAttempt attempt_1445144423722_0020_m_000002_0,Informativo,2015-10-18 18:06:26.000,5,Hadoop,processing event eventtype container taskattempt
+"ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",Informativo,2024-03-17 16:14:05.979,17,Android,ready true policy wakefulness wksummary uasummary bootcompleted true boostinprogress false waitmodeenable false mode false manual auto adj
+"10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",Informativo,2005-12-01 16:31:55,17,BGL,total interrupts critical input interrupts microseconds total spent critical input interrupts microseconds max time critical input interrupt
+jk2_init() Found child 6451 in scoreboard slot 7,Informativo,2005-12-05 16:39:59.000,3,Apache,child scoreboard slot
+Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690,Informativo,2024-03-17 16:13:48.032,61,Android,destroying surface surface com tencent qt qtl com tencent qt qtl activity main maintabactivity called com android server wm windowstateanimator destroysurface com android server wm windowstateanimator destroysurfacelocked com android server wm windowstate destroyorsavesurface com android server wm appwindowtoken destroysurfaces com android server wm appwindowtoken notifyappstopped com android server wm windowmanagerservice notifyappstopped com android server activitystack activitystoppedlocked com android server activitymanagerservice activitystopped
+Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Informativo,2015-10-18 18:04:04.000,9,Hadoop,resolved msra sa fareast corp microsoft com default rack
+640404 floating point alignment exceptions,Informativo,2005-11-03 22:44:20,4,BGL,floating point alignment exceptions
+jk2_init() Found child 1966 in scoreboard slot 6,Informativo,2005-12-04 20:28:39.000,3,Apache,child scoreboard slot
+jk2_init() Found child 32556 in scoreboard slot 8,Informativo,2005-12-04 06:43:20.000,3,Apache,child scoreboard slot
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,Informativo,2005-12-05 16:10:44.000,6,Apache,workerenv init ok httpd conf properties
+"updateClipping isOverlap:false, getTopPadding=333.0, Translation=-139.0",Informativo,2024-03-17 16:13:47.338,5,Android,updateclipping isoverlap false gettoppadding translation
+"setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",Informativo,2024-03-17 16:14:04.505,12,Android,setsystemuivisibility vis mask oldval newval diff fullscreenstackvis dockedstackvis fullscreenstackbounds rect dockedstackbounds rect
+generating core.45183,Informativo,2005-07-17 11:00:39,2,BGL,generating core
+8 floating point alignment exceptions,Informativo,2005-07-20 23:13:13,4,BGL,floating point alignment exceptions
+shouldBlockLocation  ret:false,Informativo,2024-03-17 16:15:06.198,3,Android,shouldblocklocation ret false
+Established session 0x34edfaa9c22001e with negotiated timeout 10000 for client /10.10.34.41:51908,Informativo,2015-07-31 00:17:54.495,5,Zookeeper,established session negotiated timeout client
+Closed socket connection for client /10.10.34.13:45817 which had sessionid 0x24edfaa87170022,Informativo,2015-07-31 11:01:41.894,5,Zookeeper,closed socket connection client sessionid
+jk2_init() Found child 1965 in scoreboard slot 8,Informativo,2005-12-04 20:28:39.000,3,Apache,child scoreboard slot
+generating core.1588,Informativo,2005-06-05 17:04:06,2,BGL,generating core
+iar 00106210 dear 0244c26c,Informativo,2005-11-03 23:14:18,2,BGL,iar dear
+total of 23 ddr error(s) detected and corrected,Informativo,2005-07-23 23:21:38,6,BGL,total ddr error s detected corrected
+generating core.1172,Informativo,2005-06-05 16:38:28,2,BGL,generating core
+Received completed container container_1445144423722_0020_01_000012,Informativo,2015-10-18 18:04:11.000,3,Hadoop,received completed container
+HBM brightnessIn =38,Informativo,2024-03-17 16:14:29.484,2,Android,hbm brightnessin
+generating core.27867,Informativo,2005-07-16 06:31:36,2,BGL,generating core
+"Animating brightness: target=38, rate=200",Informativo,2024-03-17 16:15:51.359,4,Android,animating brightness target rate
+"ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",Informativo,2024-03-17 16:13:55.832,17,Android,ready true policy wakefulness wksummary uasummary bootcompleted true boostinprogress false waitmodeenable false mode false manual auto adj
+jk2_init() Found child 5901 in scoreboard slot 9,Informativo,2005-12-05 13:22:45.000,3,Apache,child scoreboard slot
+"10680 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",Informativo,2005-12-01 16:37:44,17,BGL,total interrupts critical input interrupts microseconds total spent critical input interrupts microseconds max time critical input interrupt
+iar 00106600 dear 0245ccfc,Informativo,2005-11-04 17:50:33,2,BGL,iar dear
+HBM brightnessOut =38,Informativo,2024-03-17 16:15:35.414,2,Android,hbm brightnessout
+1146800 double-hummer alignment exceptions,Informativo,2005-07-01 23:59:14,4,BGL,double hummer alignment exceptions
+Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.13841225,Informativo,2015-10-18 18:03:00.000,2,Hadoop,progress taskattempt
+JVM with ID: jvm_1445144423722_0020_m_000009 given task: attempt_1445144423722_0020_m_000007_0,Informativo,2015-10-18 18:04:06.000,4,Hadoop,jvm id given task
+jk2_init() Found child 32450 in scoreboard slot 10,Informativo,2005-12-04 06:19:19.000,3,Apache,child scoreboard slot
+"updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0",Informativo,2024-03-17 16:15:33.652,5,Android,updateclipping isoverlap false gettoppadding translation
+Closed socket connection for client /10.10.34.11:54983 which had sessionid 0x14ed93111f200f0,Informativo,2015-07-30 17:36:31.976,5,Zookeeper,closed socket connection client sessionid
+generating core.61963,Informativo,2005-07-09 20:23:19,2,BGL,generating core
+Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Informativo,2015-10-18 18:03:05.000,6,Hadoop,reduce slow start threshold met completedmapsforreduceslowstart
+Created MRAppMaster for application appattempt_1445144423722_0020_000001,Informativo,2015-10-18 18:01:47.000,3,Hadoop,created mrappmaster application
+jk2_init() Found child 6399 in scoreboard slot 6,Informativo,2005-12-05 16:26:00.000,3,Apache,child scoreboard slot
+generating core.42234,Informativo,2005-07-09 20:16:44,2,BGL,generating core
+getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity},Informativo,2024-03-17 16:13:47.547,11,Android,getrecenttasks topactivity componentinfo com tencent mobileqq com tencent mobileqq activity splashactivity
+jk2_init() Found child 32348 in scoreboard slot 7,Informativo,2005-12-04 06:01:00.000,3,Apache,child scoreboard slot
+jk2_init() Found child 1358 in scoreboard slot 8,Informativo,2005-12-04 17:01:43.000,3,Apache,child scoreboard slot
+generating core.45943,Informativo,2005-07-17 11:04:38,2,BGL,generating core
+"Expiring session 0x34ed9ac1c1e0065, timeout of 20000ms exceeded",Informativo,2015-07-30 15:18:48.000,4,Zookeeper,expiring session timeout exceeded
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,Informativo,2005-12-01 14:34:54,13,BGL,microseconds spent rbs signal handler calls microseconds maximum time single instance correctable ddr
+jk2_init() Found child 6011 in scoreboard slot 7,Informativo,2005-12-05 13:47:09.000,3,Apache,child scoreboard slot
+jk2_init() Found child 5474 in scoreboard slot 9,Informativo,2005-12-05 10:42:23.000,3,Apache,child scoreboard slot
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,Informativo,2005-12-05 13:53:35.000,6,Apache,workerenv init ok httpd conf properties
+setLightsOn(true),Informativo,2024-03-17 16:14:16.800,2,Android,setlightson true
+setLightsOn(true),Informativo,2024-03-17 16:15:51.792,2,Android,setlightson true
+generating core.27704,Informativo,2005-07-14 04:06:14,2,BGL,generating core
+"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",Informativo,2015-07-29 19:56:54.754,16,Zookeeper,notification n leader n zxid n round looking n state n sid n peerepoch leading state
+generating core.26156,Informativo,2005-06-30 15:33:31,2,BGL,generating core
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,Informativo,2005-12-04 06:19:15.000,6,Apache,workerenv init ok httpd conf properties
+jk2_init() Found child 5566 in scoreboard slot 10,Informativo,2005-12-05 10:59:25.000,3,Apache,child scoreboard slot
+HBM brightnessIn =38,Informativo,2024-03-17 16:14:06.311,2,Android,hbm brightnessin
+stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false,Informativo,2024-03-17 16:15:27.828,4,Android,stopwifidisplayscanlocked record mwifidisplayscanrequested false
+Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Informativo,2015-10-18 18:01:57.000,6,Hadoop,reduce slow start threshold met completedmapsforreduceslowstart
+jk2_init() Found child 6578 in scoreboard slot 8,Informativo,2005-12-05 17:40:38.000,3,Apache,child scoreboard slot
+jk2_init() Found child 5425 in scoreboard slot 9,Informativo,2005-12-05 10:36:10.000,3,Apache,child scoreboard slot
+Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.36390656,Informativo,2015-10-18 18:04:41.000,2,Hadoop,progress taskattempt
+jk2_init() Found child 5937 in scoreboard slot 7,Informativo,2005-12-05 13:31:53.000,3,Apache,child scoreboard slot
+"setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",Informativo,2024-03-17 16:16:04.540,13,Android,setsystemuivisibility vis mask ffffffff oldval newval diff fullscreenstackvis dockedstackvis fullscreenstackbounds rect dockedstackbounds rect
+workerEnv.init() ok /etc/httpd/conf/workers2.properties,Informativo,2005-12-04 07:13:36.000,6,Apache,workerenv init ok httpd conf properties
+Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.6199081,Informativo,2015-10-18 18:04:11.000,2,Hadoop,progress taskattempt
+generating core.6161,Informativo,2005-07-28 18:08:35,2,BGL,generating core
+jk2_init() Found child 32411 in scoreboard slot 9,Informativo,2005-12-04 06:11:11.000,3,Apache,child scoreboard slot
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,Informativo,2005-12-01 14:39:18,13,BGL,microseconds spent rbs signal handler calls microseconds maximum time single instance correctable ddr
+generating core.9386,Informativo,2005-07-12 12:45:11,2,BGL,generating core
+Received connection request /10.10.34.12:48413,Informativo,2015-07-29 19:23:16.848,3,Zookeeper,received connection request

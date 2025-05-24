@@ -16,16 +16,11 @@ El repositorio incluye los siguientes directorios y archivos:
 Para ejecutar y reproducir este análisis, es necesario contar con los siguientes requisitos:
 
 - Python 3.x
-- Bibliotecas requeridas listadas en el archivo `requirements.txt`
+- Bibliotecas requeridas listadas en el archivo `enviroment.yml`
 
 Para instalar las dependencias necesarias, ejecute el siguiente comando en su terminal:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ````
-
-## **Contacto**
-
-Para más información, por favor contacte a:
-**[kbjimens@udc.ec](mailto:xxxx@xxx.ec)**
 

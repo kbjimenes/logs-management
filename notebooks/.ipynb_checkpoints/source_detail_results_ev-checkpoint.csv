@@ -1,0 +1,47 @@
+﻿group,precision,recall,f1-score,support,method,source
+Error,1,0.9368,0.9674,95,EH,Apache
+Informativo,0.9783,1,0.9891,271,EH,Apache
+accuracy,,,0.9836,366,EH,Apache
+macro avg,0.9892,0.9684,0.9782,366,EH,Apache
+weighted avg,0.984,0.9836,0.9834,366,EH,Apache
+Advertencia,0.9296,0.4,0.5593,330,EH,Zookeeper
+Error,0,0,0,3,EH,Zookeeper
+Informativo,0.5594,0.9581,0.7064,167,EH,Zookeeper
+accuracy,,,0.584,500,EH,Zookeeper
+macro avg,0.4963,0.4527,0.4219,500,EH,Zookeeper
+weighted avg,0.8004,0.584,0.6051,500,EH,Zookeeper
+Advertencia,0.7643,1,0.8664,201,EH,Hadoop
+Error,0.9737,0.9737,0.9737,38,EH,Hadoop
+Informativo,1,0.7549,0.8604,253,EH,Hadoop
+accuracy,,,0.872,492,EH,Hadoop
+macro avg,0.9126,0.9095,0.9001,492,EH,Hadoop
+weighted avg,0.9017,0.872,0.8716,492,EH,Hadoop
+Advertencia,0.4,0.1905,0.2581,42,EH,Android
+Error,0,0,0,1,EH,Android
+Informativo,0.9287,0.9758,0.9517,454,EH,Android
+accuracy,,,0.9074,497,EH,Android
+macro avg,0.4429,0.3887,0.4032,497,EH,Android
+weighted avg,0.8822,0.9074,0.8911,497,EH,Android
+Advertencia,1,0.9286,0.963,42,LR,Android
+Error,0,0,0,1,LR,Android
+Informativo,0.9913,1,0.9956,454,LR,Android
+accuracy,,,0.992,497,LR,Android
+macro avg,0.6638,0.6429,0.6529,497,LR,Android
+weighted avg,0.99,0.992,0.9909,497,LR,Android
+Error,1,0.9474,0.973,95,LR,Apache
+Informativo,0.9819,1,0.9909,271,LR,Apache
+accuracy,,,0.9863,366,LR,Apache
+macro avg,0.9909,0.9737,0.9819,366,LR,Apache
+weighted avg,0.9866,0.9863,0.9862,366,LR,Apache
+Advertencia,1,0.99,0.995,201,LR,Hadoop
+Error,1,0.9737,0.9867,38,LR,Hadoop
+Informativo,0.9881,1,0.994,250,LR,Hadoop
+accuracy,,,0.9939,489,LR,Hadoop
+macro avg,0.996,0.9879,0.9919,489,LR,Hadoop
+weighted avg,0.9939,0.9939,0.9939,489,LR,Hadoop
+Advertencia,0.997,1,0.9985,330,LR,Zookeeper
+Error,1,1,1,3,LR,Zookeeper
+Informativo,1,0.994,0.997,167,LR,Zookeeper
+accuracy,,,0.998,500,LR,Zookeeper
+macro avg,0.999,0.998,0.9985,500,LR,Zookeeper
+weighted avg,0.998,0.998,0.998,500,LR,Zookeeper

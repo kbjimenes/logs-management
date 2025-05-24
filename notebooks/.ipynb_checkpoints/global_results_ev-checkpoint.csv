@@ -1,0 +1,13 @@
+﻿group,precision,recall,f1-score,support,method
+Advertencia,0.8024,0.5951,0.6834,573,EH
+Error,0.6332,0.9197,0.75,137,EH
+Informativo,0.8652,0.9301,0.8965,1145,EH
+accuracy,,,0.8259,1855,EH
+macro avg,0.7669,0.815,0.7766,1855,EH
+weighted avg,0.8286,0.8259,0.8198,1855,EH
+Advertencia,1,0.93,0.96,42,RL
+Error,0,0,0,1,RL
+Informativo,0.99,1,1,454,RL
+accuracy,,,0.99,497,RL
+macro avg,0.66,0.64,0.65,497,RL
+weighted avg,0.99,0.99,0.99,497,RL

@@ -1,0 +1,19 @@
+﻿group,precision,recall,f1-score,support,method
+Advertencia,0.602941,0.931818,0.732143,44,RH
+Error,0.992424,0.949275,0.97037,138,RH
+Informativo,0.975,0.847826,0.906977,138,RH
+accuracy,0.903125,0.903125,0.903125,0.903125,RH
+macro avg,0.856788,0.90964,0.86983,320,RH
+weighted avg,0.931356,0.903125,0.910276,320,RH
+Advertencia,1,1,1,44,TF_IDF
+Error,1,0.98,0.99,138,TF_IDF
+Informativo,0.98,1,0.99,138,TF_IDF
+accuracy,,,0.99,320,TF_IDF
+macro avg,0.99,0.99,0.99,320,TF_IDF
+weighted avg,0.99,0.99,0.99,320,TF_IDF
+Advertencia,1,0.95,0.98,44,Word2Vec
+Error,0.97,0.99,0.98,138,Word2Vec
+Informativo,0.99,0.99,0.99,138,Word2Vec
+accuracy,,,0.98,320,Word2Vec
+macro avg,0.99,0.98,0.98,320,Word2Vec
+weighted avg,0.98,0.98,0.98,320,Word2Vec
